@@ -2,6 +2,5 @@
   "short_name": "Portfolio",
   "name": "Portfolio de Swan Maillard",
   "start_url": "/",
-  "display": "standalone",
-  "theme_color": "#0D161C"
+  "display": "standalone"
 }
