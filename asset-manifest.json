@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.d6ee6c19.css",
-    "main.js": "./static/js/main.dfbf19f9.js",
-    "static/media/project2.png": "./static/media/project2.4ac4082c094e2ccca6e1.png",
-    "static/media/profile_picture.jpg": "./static/media/profile_picture.ae0b22bafc494cc5d25c.jpg",
-    "static/media/project3.jpg": "./static/media/project3.00259d51ea966d860cc9.jpg",
-    "static/media/project1.png": "./static/media/project1.eb9468a768cf3ad2dbab.png",
+    "main.css": "./static/css/main.eb0e5fe3.css",
+    "main.js": "./static/js/main.1628ba2d.js",
+    "static/media/profile_picture.jpg": "./static/media/profile_picture.a1c978053cf84f68c0da.jpg",
+    "static/media/project2.png": "./static/media/project2.19846e0a94f2daedb4f4.png",
+    "static/media/project3.jpg": "./static/media/project3.31bffb4ebd3e67fcf63e.jpg",
     "static/media/BarlowCondensed-Medium.ttf": "./static/media/BarlowCondensed-Medium.2afd924bd5156ee485b9.ttf",
     "static/media/BarlowCondensed-Light.ttf": "./static/media/BarlowCondensed-Light.3ba02bbdeb04e17f34bf.ttf",
+    "static/media/project1.png": "./static/media/project1.ed6ade7332c6a42e6fc3.png",
     "static/media/JosefinSans-Medium.ttf": "./static/media/JosefinSans-Medium.dd8ca571bd9cc36eb6f5.ttf",
-    "static/media/background_shapes.png": "./static/media/background_shapes.d7aa4a378011780bc0bf.png",
+    "static/media/background_shapes.png": "./static/media/background_shapes.0b378373b7c541773857.png",
     "index.html": "./index.html",
-    "main.d6ee6c19.css.map": "./static/css/main.d6ee6c19.css.map",
-    "main.dfbf19f9.js.map": "./static/js/main.dfbf19f9.js.map"
+    "main.eb0e5fe3.css.map": "./static/css/main.eb0e5fe3.css.map",
+    "main.1628ba2d.js.map": "./static/js/main.1628ba2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6ee6c19.css",
-    "static/js/main.dfbf19f9.js"
+    "static/css/main.eb0e5fe3.css",
+    "static/js/main.1628ba2d.js"
   ]
 }
