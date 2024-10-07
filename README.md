@@ -8,7 +8,7 @@ The website showcases my work, skills, and professional background in web develo
 
 This portfolio is a **React** application designed to be lightweight and responsive. 
 
-The portfolio is automatically deployed to **GitHub Pages** by pushing changes to the `main` branch.
+The portfolio is automatically deployed to **GitHub Pages** by pushing changes to the `master` branch.
 
 ## Authors
 
