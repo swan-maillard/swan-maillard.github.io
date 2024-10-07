@@ -2,7 +2,7 @@
 
 Welcome to the source code repository for my personal portfolio website hosted at [swan-maillard.github.io](https://swan-maillard.github.io)! 
 
-This project showcases my work, skills, and professional background in web development and other technical fields.
+The website showcases my work, skills, and professional background in web development and other technical fields.
 
 ## About the Project
 
