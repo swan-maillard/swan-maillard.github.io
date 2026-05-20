@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "./static/css/main.720784ee.css",
-    "main.js": "./static/js/main.cdf0c7d0.js",
+    "main.js": "./static/js/main.f395389d.js",
     "static/media/project3.png": "./static/media/project3.55c6ece579baba8c564a.png",
+    "static/media/project1.png": "./static/media/project1.758981c53d29eeaba394.png",
     "static/media/project5.png": "./static/media/project5.7c81f401967e91b60dee.png",
+    "static/media/project2.png": "./static/media/project2.8ff2a6f8744d50e24c1e.png",
     "static/media/profile_picture.jpg": "./static/media/profile_picture.44c6123b18039749047f.jpg",
-    "static/media/project2.png": "./static/media/project2.9a95e64a7294d560f679.png",
     "static/media/project6.png": "./static/media/project6.99d5732bddcaf181930e.png",
     "static/media/project4.png": "./static/media/project4.63bcdf27730b0911a1f0.png",
     "static/media/CV.pdf": "./static/media/CV.35f59443428d1aba5680.pdf",
     "static/media/project7.png": "./static/media/project7.1c66008cec6feb9261ad.png",
     "static/media/BarlowCondensed-Medium.ttf": "./static/media/BarlowCondensed-Medium.2afd924bd5156ee485b9.ttf",
     "static/media/BarlowCondensed-Light.ttf": "./static/media/BarlowCondensed-Light.3ba02bbdeb04e17f34bf.ttf",
-    "static/media/project1.png": "./static/media/project1.ed6ade7332c6a42e6fc3.png",
     "static/media/JosefinSans-Medium.ttf": "./static/media/JosefinSans-Medium.dd8ca571bd9cc36eb6f5.ttf",
     "static/media/project8.png": "./static/media/project8.e08062cd821700adc49a.png",
     "index.html": "./index.html",
     "main.720784ee.css.map": "./static/css/main.720784ee.css.map",
-    "main.cdf0c7d0.js.map": "./static/js/main.cdf0c7d0.js.map"
+    "main.f395389d.js.map": "./static/js/main.f395389d.js.map"
   },
   "entrypoints": [
     "static/css/main.720784ee.css",
-    "static/js/main.cdf0c7d0.js"
+    "static/js/main.f395389d.js"
   ]
 }
