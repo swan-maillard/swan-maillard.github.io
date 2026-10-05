@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.1685d80d.css",
-    "main.js": "./static/js/main.0cc559b7.js",
+    "main.css": "./static/css/main.f6987c7b.css",
+    "main.js": "./static/js/main.8bc890fb.js",
     "static/media/1.png": "./static/media/1.05952b29a7b249cfbab9.png",
     "static/media/2.png": "./static/media/2.7170026dcaf0bae887ff.png",
     "static/media/3.png": "./static/media/3.645075d1b3749740f8e1.png",
@@ -11,17 +11,21 @@
     "static/media/7.png": "./static/media/7.6b87391092e79eee5e96.png",
     "static/media/flock.png": "./static/media/flock.99d5732bddcaf181930e.png",
     "static/media/6.png": "./static/media/6.1066270aca622059eb1d.png",
-    "static/media/portfolio.png": "./static/media/portfolio.1c66008cec6feb9261ad.png",
     "static/media/8.png": "./static/media/8.ef92c3c446c686c9839d.png",
-    "static/media/BarlowCondensed-Medium.ttf": "./static/media/BarlowCondensed-Medium.2afd924bd5156ee485b9.ttf",
-    "static/media/BarlowCondensed-Light.ttf": "./static/media/BarlowCondensed-Light.3ba02bbdeb04e17f34bf.ttf",
-    "static/media/JosefinSans-Medium.ttf": "./static/media/JosefinSans-Medium.dd8ca571bd9cc36eb6f5.ttf",
+    "static/media/barlow-latin-400-normal.woff2": "./static/media/barlow-latin-400-normal.bd1dfa097b26c2912bc2.woff2",
+    "static/media/barlow-latin-500-normal.woff2": "./static/media/barlow-latin-500-normal.21faf72ff9da543b9907.woff2",
+    "static/media/barlow-condensed-latin-500-normal.woff2": "./static/media/barlow-condensed-latin-500-normal.93cf9cdda79b2ecb7ae3.woff2",
+    "static/media/barlow-latin-400-normal.woff": "./static/media/barlow-latin-400-normal.ae87fe97ae916c90ee64.woff",
+    "static/media/barlow-latin-500-normal.woff": "./static/media/barlow-latin-500-normal.77bd5f122ee7f5c85dc2.woff",
+    "static/media/barlow-condensed-latin-500-normal.woff": "./static/media/barlow-condensed-latin-500-normal.d38ca18370fbac032ed9.woff",
+    "static/media/josefin-sans-latin-500-normal.woff": "./static/media/josefin-sans-latin-500-normal.f0a52007340d92983314.woff",
+    "static/media/josefin-sans-latin-500-normal.woff2": "./static/media/josefin-sans-latin-500-normal.c293c0ddada5cbb932d3.woff2",
     "index.html": "./index.html",
-    "main.1685d80d.css.map": "./static/css/main.1685d80d.css.map",
-    "main.0cc559b7.js.map": "./static/js/main.0cc559b7.js.map"
+    "main.f6987c7b.css.map": "./static/css/main.f6987c7b.css.map",
+    "main.8bc890fb.js.map": "./static/js/main.8bc890fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.1685d80d.css",
-    "static/js/main.0cc559b7.js"
+    "static/css/main.f6987c7b.css",
+    "static/js/main.8bc890fb.js"
   ]
 }
